@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="huffman.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="115" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="82" />
+			<Collapse line="273" />
+			<Collapse line="287" />
+			<Collapse line="312" />
+			<Collapse line="323" />
+			<Collapse line="356" />
+		</Folding>
+	</File>
+	<File name="paletteFunctions.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="363" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="40" />
+			<Collapse line="56" />
+		</Folding>
+	</File>
+	<File name="assistFunctions.h" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20866" topLine="254" />
+		</Cursor>
+		<Folding>
+			<Collapse line="16" />
+			<Collapse line="22" />
+			<Collapse line="30" />
+			<Collapse line="39" />
+			<Collapse line="48" />
+			<Collapse line="57" />
+			<Collapse line="68" />
+			<Collapse line="94" />
+			<Collapse line="133" />
+			<Collapse line="256" />
+			<Collapse line="282" />
+			<Collapse line="291" />
+			<Collapse line="300" />
+			<Collapse line="323" />
+			<Collapse line="363" />
+			<Collapse line="379" />
+			<Collapse line="428" />
+			<Collapse line="451" />
+			<Collapse line="485" />
+			<Collapse line="508" />
+			<Collapse line="568" />
+			<Collapse line="577" />
+			<Collapse line="582" />
+			<Collapse line="593" />
+			<Collapse line="898" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="16" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="functions.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3995" topLine="50" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
